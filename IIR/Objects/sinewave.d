@@ -1,0 +1,10 @@
+.\objects\sinewave.o: sinewave.c
+.\objects\sinewave.o: sinewave.h
+.\objects\sinewave.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\arm_math.h
+.\objects\sinewave.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm4.h
+.\objects\sinewave.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sinewave.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h
+.\objects\sinewave.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h
+.\objects\sinewave.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h
+.\objects\sinewave.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\sinewave.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
